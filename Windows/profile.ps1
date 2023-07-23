@@ -71,5 +71,3 @@ function nopro {
     Write-Host "[$elapsedTime] " -NoNewline -ForegroundColor Green
     return "> "
 }
-
-. C:\Users\Stig\Documents\Programming\Powershell\tools\Cleanup-NodeModules.ps1
